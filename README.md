@@ -1,6 +1,6 @@
 # ACA Lessons
 
-## Tuesday - 22
+## TUESDAY - 22
 
 ### PRESENTATION: Jung Cho
 
@@ -33,6 +33,20 @@ How does the family get to the other side and return the boat to the fisherman?
 * Copy the URL of the PR and paste it into Campus Manager
 
 * Merge your own Pull Request, so the changes appear on your live website.
+
+### Today's Lesson:
+
+- [ ] Find a resume design.
+- [ ] Find a person to build the resume for.
+- [ ] Find lorem ipsum content
+- [ ] Draw out the wireframe of the resume.
+- [ ] Code Review with a classmate.
+- [ ] Code it.
+- [ ] Turn it in.
+
+### If you finish early
+
+**Work on your homework that's due Thursday**
 
 ## THURSDAY - 24
 
