@@ -81,6 +81,12 @@ Monkeys can jump out of the boat when it's banked.
 
 ### We're having some problems with `gh-pages` branches, so please branch all branches off of `master` and delete `gh-pages`
 
+1. Do: `git checkout master`
+2. `git pull origin master` - This will grab all of your most recent code from GitHub and update your master branch on your laptop
+3. `git branch -D gh-pages` - This permanently deletes the `gh-pages` branch
+4. Make ALL additional branches for anything else we do in this class off of the `master` branch.
+  a. **Every time you want to start a new branch:** `git checkout master`, `git pull origin master`, `git checkout -b new-branch`
+
 ### Eric's Git / GitHub presentation
 
 ### Responsive Hero Page
