@@ -67,7 +67,7 @@ Monkeys can jump out of the boat when it's banked.
 
 ### What's due?
 
-* Responsive Hero page (Instructions at the bottom of this lesson: https://web.austincodingacademy.com/_book/02Week/02DayClass.html#): **Due TONIGHT by 11:59pm**
+* Responsive Hero page - Instructions here: https://web.austincodingacademy.com/_book/02Week/02DayClass.html#): **Due TONIGHT by 11:59pm**
 
 * Medium Blog Post 2 (Instructions at the bottom of this lesson: https://web.austincodingacademy.com/_book/01Week/02DayClass.html): **Due TONIGHT by 11:59pm**
 
