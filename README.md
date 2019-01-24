@@ -71,7 +71,7 @@ Monkeys can jump out of the boat when it's banked.
 
 * Medium Blog Post 2 (Instructions at the bottom of this lesson: https://web.austincodingacademy.com/_book/01Week/02DayClass.html): **Due TONIGHT by 11:59pm**
 
-* Live Portfolio: If you already have your Portfolio live, you can just link your portfolio URL in Campus Manager under `GitHub Link` (If you don't have your portfolio live, go back thru curriculum to "Host Your First Webpage On Github": https://web.austincodingacademy.com/_book/01Week/02DayClass.html) - **Due TONIGHT by 11:59pm**
+* Live Portfolio: If you already have your Portfolio live, you can just link your portfolio URL in Campus Manager under `GitHub Link` (If you don't have your portfolio live, ask me for help during tonights class!) - **Due TONIGHT by 11:59pm**
 
 * PR of Blog Website/Link to live blog: I will go over how to make a PR so you all can get the link to the PR submitted in Campus Manager under `Blog Website PR Link` (Instructions are in Section 2 of 2: Making a Blog with CSS Selectors: https://web.austincodingacademy.com/_book/01Week/02DayClass.html) - **Due Tuesday 29th**
 
