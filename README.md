@@ -129,14 +129,20 @@ What were the numbers?
 
 **Grading**: You need to get at least a 70% to continue with the course. Checkpoints are weighted higher than assignments. If you put **any** link into Campus Manager **before the due date**, you'll earn at least 50 points out of 100. If that link contains the correct information for the assignment, you'll earn 100 points total. If the link does not contain the information the assignment asks for, you will maintain 50 points.  If you update that link at a later date with the correct information, I will award you 25 points for a total of 75. If there is no link and it is past the due date, you will get 0 points.
 
-### CSS Grid
+### CSS Grid Widget
 
 0. Go to your ACA folder in Terminal.
 1. Make sure you have a `src` folder. `cd` into it. Open VS Code.
-2. Go to your origin branch (`master` or `gh-pages`) do `git pull` and then create a `dashboard` branch off of it.
-3. In VS Code, create a `dashboard.html` page. Create a `dashboard-style.css` file.
-4. In order to link your `dashboard.html` into your `portfolio.html`, create an `<a href="dashboard.html"></a>` within `portfolio.html`
+2. Make a new file called `portfolio.html` within your `src` folder and link it in the "portfolio" button on your portfolio landing page
+3. Go to your origin branch (`master` or `gh-pages`) in git and do `git pull` and then create a `dashboard` branch off of it.
+4. In VS Code, create a `dashboard.html` page. Create a `dashboard-style.css` file.
+5. In order to link your `dashboard.html` into your `portfolio.html`, create an `<a href="dashboard.html"></a>` within `portfolio.html`
 
+#### CSS Grid Practice
+
+* Examples: CodePen: https://codepen.io/mercuryworks/pen/VWBqdx
+
+* Grid garden: http://cssgridgarden.com/
 
 ## THURSDAY - 31
 
