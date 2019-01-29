@@ -127,15 +127,30 @@ What were the numbers?
 
 * Link/PR to Widget Dashboard using CSS Grid: https://web.austincodingacademy.com/_book/03Week/01DayClass.html - **Due Tuesday 5th**
 
-**Grading**: You need to get at least a 70% to continue with the course. Checkpoints are weighted higher than assignments. If you put **any** link into Campus Manager **before the due date**, you'll earn at least 50 points out of 100. If that link contains the correct information for the assignment, you'll earn 100 points total. If the link does not contain the information the assignment asks for, you will maintain 50 points.  If you update that link at a later date with the correct information, I will award you 25 points for a total of 75. If there is no link and it is past the due date, you will get 0 points.
+**Grading**: You need to get at least a 70% to continue with the course. Checkpoints are weighted higher than assignments. 
+* **Links in Campus Manager before due-date with relevant assignment**: 100 points
+* **Links in Campus Manager before due-date without relevant assignment**: 50 points
+* **Links in Campus Manager corrected after due-date**: 75 points
+* **Links in Campus Manager posted after due-date**: 0 points
 
-### CSS Grid
+### Instruction
 
-* Examples: CodePen: https://codepen.io/eamoses/pen/zeKMLm
+1. Selena's Landing Page - has all links
+2. Will be populating `Portfolio` link today
+3. Show Selina's GitHub organization and explain `origin`
+4. Show how CSS grid can relate to Selena's landing page
+
+#### CSS Grid
+
+* Examples: 
+
+  ** CodePen: https://codepen.io/karks88/pen/eWWaPg
+  
+  ** CodePen: https://codepen.io/eamoses/pen/zeKMLm
 
 * Grid garden: http://cssgridgarden.com/
 
-#### CSS Grid Widget
+##### CSS Grid Widget
 
 0. Go to your ACA folder in Terminal.
 1. Make sure you have a `src` folder. `cd` into it. Open VS Code.
