@@ -144,9 +144,11 @@ What were the numbers?
 
 * Examples: 
 
-  ** CodePen: https://codepen.io/karks88/pen/eWWaPg
+  * CodePen: https://codepen.io/karks88/pen/eWWaPg
   
-  ** CodePen: https://codepen.io/eamoses/pen/zeKMLm
+  * CodePen: https://codepen.io/eamoses/pen/zeKMLm
+  
+  * My code
 
 * Grid garden: http://cssgridgarden.com/
 
