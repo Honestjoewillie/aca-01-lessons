@@ -107,12 +107,18 @@ Follow the curriculum:
 
 ### Daily Logic
 
-A teacher says: I'm thinking of two natural numbers greater than 1. Try to guess what they are.
-The first student knows their product and the other one knows their sum.
-First: I do not know the sum.
-Second: I knew that. The sum is less than 14.
-First: I knew that. However, now I know the numbers.
-Second: And so do I.
+A teacher says: I'm thinking of two whole numbers greater than 1. Try to guess what they are.
+
+* The first student knows their product and the other one knows their sum.
+
+**First**: I do not know the sum.
+
+**Second**: I knew that. The sum is less than 14.
+
+**First**: I knew that. And, now I know the numbers.
+
+**Second**: And so do I.
+
 What were the numbers?
 
 ### What's Due?
