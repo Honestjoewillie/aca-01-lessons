@@ -103,6 +103,45 @@ Follow the curriculum:
 
 ### PRESENTATION: Ryan Delong
 
-#### TUESDAY PRESENTATION:
+#### THURSDAY PRESENTATION: Joe Hauger
+
+### Daily Logic
+
+A teacher says: I'm thinking of two natural numbers greater than 1. Try to guess what they are.
+The first student knows their product and the other one knows their sum.
+First: I do not know the sum.
+Second: I knew that. The sum is less than 14.
+First: I knew that. However, now I know the numbers.
+Second: And so do I.
+What were the numbers?
+
+### What's Due?
+
+* Link to live blog: Section 2 of 2: Making a Blog with CSS Selectors: https://web.austincodingacademy.com/_book/01Week/02DayClass.html - **Due TONIGHT before 11:59pm**
+
+* Medium Blog Post 3: https://web.austincodingacademy.com/_book/02Week/01DayClass.html - **Due TONIGHT before 11:59pm**
+
+* Medium Blog Post 4: https://web.austincodingacademy.com/_book/02Week/02DayClass.html - **Due Thursday 31st**
+
+* Medium Blog Post 5: https://web.austincodingacademy.com/_book/03Week/01DayClass.html - **Due Tuesday 5th**
+
+* Link/PR to Widget Dashboard using CSS Grid: https://web.austincodingacademy.com/_book/03Week/01DayClass.html - **Due Tuesday 5th**
+
+**Grading**: You need to get at least a 70% to continue with the course. Checkpoints are weighted higher than assignments. If you put **any** link into Campus Manager **before the due date**, you'll earn at least 50 points out of 100. If that link contains the correct information for the assignment, you'll earn 100 points total. If the link does not contain the information the assignment asks for, you will maintain 50 points.  If you update that link at a later date with the correct information, I will award you 25 points for a total of 75. If there is no link and it is past the due date, you will get 0 points.
+
+### CSS Grid
+
+0. Go to your ACA folder in Terminal.
+1. Make sure you have a `src` folder. `cd` into it. Open VS Code.
+2. Go to your origin branch (`master` or `gh-pages`) do `git pull` and then create a `dashboard` branch off of it.
+3. In VS Code, create a `dashboard.html` page. Create a `dashboard-style.css` file.
+4. In order to link your `dashboard.html` into your `portfolio.html`, create an `<a href="dashboard.html"></a>` within `portfolio.html`
+
+
+## THURSDAY - 31
+
+### PRESENTATION: Joe Hauger
+
+#### TUESDAY PRESENTATION: 
 
 ### Daily Logic
