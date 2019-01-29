@@ -131,7 +131,7 @@ What were the numbers?
 
 ### CSS Grid
 
-* Examples: CodePen: https://codepen.io/mercuryworks/pen/VWBqdx
+* Examples: CodePen: https://codepen.io/eamoses/pen/zeKMLm
 
 * Grid garden: http://cssgridgarden.com/
 
