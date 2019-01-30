@@ -187,6 +187,8 @@ How many flowers do I have if all of them are roses except two, all of them are 
 
 * Medium Blog Post 6: https://web.austincodingacademy.com/_book/03Week/02DayClass.html - **Due Thursday 7th**
 
+* NASA Page: https://web.austincodingacademy.com/_book/03Week/02DayClass.html - **Due Thursday 7th**
+
 **Grading**: You need to get at least a 70% to continue with the course. Checkpoints are weighted higher than assignments. 
 * **Links in Campus Manager before due-date with relevant assignment**: 100 points
 * **Links in Campus Manager before due-date without relevant assignment**: 50 points (If you edit the link with the correct assignment after the due date, I will change your grade to a 75)
