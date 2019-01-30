@@ -171,6 +171,32 @@ What were the numbers?
 
 ### PRESENTATION: Joe Hauger
 
-#### TUESDAY PRESENTATION: 
+#### TUESDAY PRESENTATION: Dan Brockman
 
 ### Daily Logic
+
+How many flowers do I have if all of them are roses except two, all of them are tulips except two, and all of them are daisies except two?
+
+### What's Due?
+
+* Medium Blog Post 4: https://web.austincodingacademy.com/_book/02Week/02DayClass.html - **Due Thursday 31st**
+
+* Medium Blog Post 5: https://web.austincodingacademy.com/_book/03Week/01DayClass.html - **Due Tuesday 5th**
+
+* Link to Widget Dashboard/Flexbox calculator using CSS Grid/Flexbox: https://web.austincodingacademy.com/_book/03Week/01DayClass.html AND https://web.austincodingacademy.com/_book/03Week/02DayClass.html - **Due Thursday 7th**
+
+* Medium Blog Post 6: https://web.austincodingacademy.com/_book/03Week/02DayClass.html - **Due Thursday 7th**
+
+**Grading**: You need to get at least a 70% to continue with the course. Checkpoints are weighted higher than assignments. 
+* **Links in Campus Manager before due-date with relevant assignment**: 100 points
+* **Links in Campus Manager before due-date without relevant assignment**: 50 points (If you edit the link with the correct assignment after the due date, I will change your grade to a 75)
+* **Links in Campus Manager posted after due-date**: 0 points (No chance to edit link or get more points)
+
+### Story time
+
+Reasoning behind grading my style.
+
+Perfection isn't expected: The only way an employer knows you're making progress on a software engineering team, is if you show them something, even if it's uncompleted crap. Push things to GH before they are done, before you are ready. Accept help and suggestions on your work as you go. It's about progress and being flexible enough to make changes as you go, not about working in a silo until you've completed a job to perfection.
+
+### Widget Dashboard with CSS Flexbox Calculator
+
