@@ -204,5 +204,10 @@ Perfection isn't expected: The only way an employer knows you're making progress
 
 * https://github.com/eamoses/aca-01-portfolio
 
+* Short demo of how I built everything out in this repo, share code if anyone wants to use it/reference it while they're building their dashboards.
+
 ### Widget Dashboard with CSS Flexbox Calculator
 
+* We'll walk thru how to add flexbox to the calculator so it "flexes" as it shrinks
+
+* We'll start on a new page with a space theme using CSS Flexbox.
