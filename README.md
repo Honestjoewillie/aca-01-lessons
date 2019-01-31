@@ -175,7 +175,7 @@ What were the numbers?
 
 ### Daily Logic
 
-How many flowers do I have if all of them are roses except two, all of them are tulips except two, and all of them are daisies except two?
+How many flowers do I have if all of them are red except two, all of them are purple except two, and all of them are blue except two?
 
 ### What's Due?
 
