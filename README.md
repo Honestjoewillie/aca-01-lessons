@@ -200,6 +200,12 @@ Reasoning behind grading my style.
 
 Perfection isn't expected: The only way an employer knows you're making progress on a software engineering team, is if you show them something, even if it's uncompleted crap. Push things to GH before they are done, before you are ready. Accept help and suggestions on your work as you go. It's about progress and being flexible enough to make changes as you go, not about working in a silo until you've completed a job to perfection.
 
+### Go over Checkpoint 1
+
+* https://web.austincodingacademy.com/_book/checkPoints/01checkPoint.html
+
+**Checkpoint 1 is due Thursday February 14th by 11:59pm**
+
 ### Adding everyone to my portfolio
 
 * https://github.com/eamoses/aca-01-portfolio
