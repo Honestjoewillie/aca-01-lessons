@@ -212,8 +212,12 @@ Perfection isn't expected: The only way an employer knows you're making progress
 
 * Short demo of how I built everything out in this repo, share code if anyone wants to use it/reference it while they're building their dashboards.
 
-### Widget Dashboard with CSS Flexbox Calculator
+### NASA images page with CSS Flexbox
 
-* We'll walk thru how to add flexbox to the calculator so it "flexes" as it shrinks
+Flexbox is great when you want to line up a whole bunch of things in one direction, and make sure they "flex" to the changing of the size of the page.
+
+* Flexbox reference: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+* Flexbox CodePen example: https://codepen.io/eamoses/pen/gqmPdw
 
 * We'll start on a new page with a space theme using CSS Flexbox.
