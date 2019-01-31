@@ -220,4 +220,4 @@ Flexbox is great when you want to line up a whole bunch of things in one directi
 
 * Flexbox CodePen example: https://codepen.io/eamoses/pen/gqmPdw
 
-* We'll start on a new page with a space theme using CSS Flexbox.
+* We'll start on a new page with a NASA **or** Pintrest theme using CSS Flexbox.
