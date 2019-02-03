@@ -183,11 +183,11 @@ How many flowers do I have if all of them are red except two, all of them are pu
 
 * Medium Blog Post 5: https://web.austincodingacademy.com/_book/03Week/01DayClass.html - **Due Tuesday 5th**
 
-* Link to Widget Dashboard/Flexbox calculator using CSS Grid/Flexbox: https://web.austincodingacademy.com/_book/03Week/01DayClass.html AND https://web.austincodingacademy.com/_book/03Week/02DayClass.html - **Due Thursday 7th**
+* Link to Widget Dashboard using CSS Grid - **Due Thursday 7th**
 
 * Medium Blog Post 6: https://web.austincodingacademy.com/_book/03Week/02DayClass.html - **Due Thursday 7th**
 
-* NASA Page: https://web.austincodingacademy.com/_book/03Week/02DayClass.html - **Due Thursday 7th**
+* NASA or Pintrest-like Page using CSS Flexbox - **Due Thursday 7th**
 
 **Grading**: You need to get at least a 70% to continue with the course. Checkpoints are weighted higher than assignments. 
 * **Links in Campus Manager before due-date with relevant assignment**: 100 points
@@ -221,3 +221,30 @@ Flexbox is great when you want to line up a whole bunch of things in one directi
 * Flexbox CodePen example: https://codepen.io/eamoses/pen/gqmPdw
 
 * We'll start on a new page with a NASA **or** Pintrest theme using CSS Flexbox.
+
+## TUESDAY - 5
+
+### PRESENTATION: Dan Brockman & Andy Fogarasi
+
+#### TUESDAY PRESENTATION: Devin Gibbons
+
+### Daily Logic
+
+The pattern 123451234512345... is continued to form a 2000 digit number. What is the sum of all 2000 digits?
+
+### What's Due?
+
+* Medium Blog Post 5: https://web.austincodingacademy.com/_book/03Week/01DayClass.html - **Due TONIGHT**
+
+* Link to Widget Dashboard using CSS Grid - **Due Thursday 7th**
+
+* Medium Blog Post 6: https://web.austincodingacademy.com/_book/03Week/02DayClass.html - **Due Thursday 7th**
+
+* NASA or Pintrest-like Page using CSS Flexbox - **Due Thursday 7th**
+
+* Blog Post 7: https://web.austincodingacademy.com/_book/04Week/01DayClass.html - **Due Tuesday  12th**
+
+* Checkpoint 1: Widget Dashboard using CSS Grid AND a Media Query with an `Images` folder containing two wireframes (moble and tablet) - **Due Thursday 14th**
+
+### Box Model
+
