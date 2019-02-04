@@ -288,7 +288,7 @@ and do it all over again...
 
 ### Daily Logic
 
-![Daily logic[(https://github.com/eamoses/aca-01-lessons/blob/master/logicfeb7.png?raw=true)
+![Daily logic](https://github.com/eamoses/aca-01-lessons/blob/master/logicfeb7.png?raw=true)
 
 ### What's Due?
 
