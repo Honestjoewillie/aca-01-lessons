@@ -248,3 +248,38 @@ The pattern 123451234512345... is continued to form a 2000 digit number. What is
 
 ### Box Model
 
+## THURSDAY - 7
+
+### PRESENTATION: Devin Gibbons
+
+#### TUESDAY PRESENTATION: Selina Solis & Rekha Umashankar
+
+### Daily Logic
+
+
+
+### What's Due?
+
+* Link to Widget Dashboard using CSS Grid - **Due TONIGHT**
+
+* Medium Blog Post 6: https://web.austincodingacademy.com/_book/03Week/02DayClass.html - **Due TONIGHT**
+
+* NASA or Pintrest-like Page using CSS Flexbox - **Due TONIGHT**
+
+* Blog Post 7: https://web.austincodingacademy.com/_book/04Week/01DayClass.html - **Due Tuesday  12th**
+
+* Blog Post 8: https://web.austincodingacademy.com/_book/04Week/02DayClass.html - **Due Thursday 14th**
+
+* Checkpoint 1: Widget Dashboard using CSS Grid AND a Media Query with an `Images` folder containing two wireframes (moble and tablet) - **Due Thursday 14th**
+
+### Work on Checkpoint 1, Chrome Dev Tools, Merge Conflicts
+
+#### Chrome Dev tools follow along
+
+#### Merge Conflicts
+
+All students should configure their git: `git config --global core.editor "code --wait"`
+
+This will open VS Code every time you have a merge conflict. A merge conflict is when git is confused as to which code you want to be the "source of truth" and you have to manually go through the file and delete the code you don't want, and save the code you do want. After editing your files, do `git add .`, `git commit -m "resolving merge conflict"`, `git push` to update git and GitHub with the most recent code that you want to keep as your source of truth.
+
+#### Work on Checkpoint 1
