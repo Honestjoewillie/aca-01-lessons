@@ -272,7 +272,7 @@ Box model CodePen example: https://codepen.io/bigknell/pen/aqgzYp
 
 #### Getting started
 
-* `git checkout master` OR `gh-pages`
+* `git checkout master` OR `gh-pages` (whichever is your origin)
 * then `git pull` changes,
 * create a new branch `git checkout -b boxModel`
 * make changes in VS code & save,
@@ -317,3 +317,161 @@ All students should configure their git: `git config --global core.editor "code 
 This will open VS Code every time you have a merge conflict. A merge conflict is when git is confused as to which code you want to be the "source of truth" and you have to manually go through the file and delete the code you don't want, and save the code you do want. After editing your files, do `git add .`, `git commit -m "resolving merge conflict"`, `git push` to update git and GitHub with the most recent code that you want to keep as your source of truth.
 
 #### Work on Checkpoint 1
+
+## TUESDAY - 12
+
+### PRESENTATION: Selina Solis & Rekha Umashankar
+
+#### THURSDAY: ?
+
+### Daily Logic
+
+Walking up a steep hill, I pass 10 equally spaced street lamps. I take 5 seconds to walk from the first lamp to the second lamp, 6 seconds from the second lamp to the third, and so on, with each time increasing by 1 second as I slow down. How long do I take to walk from the first lamp to the last?
+
+### What's Due?
+
+* Blog Post 7: https://web.austincodingacademy.com/_book/04Week/01DayClass.html - **Due TONIGHT**
+
+* Blog Post 8: https://web.austincodingacademy.com/_book/04Week/02DayClass.html - **Due Thursday 14th**
+
+* Checkpoint 1: Widget Dashboard using CSS Grid AND a Media Query with an `Images` folder containing two wireframes (moble and tablet) - **Due Thursday 14th**
+
+* Blog Post 9: https://web.austincodingacademy.com/_book/05Week/01DayClass.html - **Due Tuesday 19th**
+
+### Portfolio.html Page
+
+1. Draw your wireframes for both mobile and desktop
+2. Dreate a new branch called `portfolio-page`
+3. Be sure to include the use of: `<iframe/>` for your web pages and one youTube video (your preference)
+4. Add a short video of you or something you like to a folder called videos
+5. Use the `<video/>` tag to display the video
+6. Build a banner for the top of this page with the <header/> tag
+7. Build a `</form>` somewhere on the page that will take in:
+  * email
+  * name
+  * location
+  * message
+  * with a reset button
+  * with a submit button
+8. Code for both mobile and desktop
+9. Add, commit, push, PR and turn in.
+
+### Git Flow Reminder
+
+* `git checkout master` OR `gh-pages` (whichever is your origin)
+* then `git pull` changes,
+* create a new branch `git checkout -b new-branch`
+* make changes in VS code & save,
+* `git add .` then...
+* `git commit -m "add a detailed message"`
+* `git push -u origin new-branch` them up to the remote repo on GitHub
+* `git checkout master` OR `gh-pages` to switch back to origin branch
+and do it all over again...
+
+## THURSDAY - 14
+
+### PRESENTATION: ?
+
+#### TUESDAY PRESENTATION: Lorianne Hutauruk & Austin Whitlock
+
+### Daily Logic
+
+A grocer places some oranges, peaches, apples and bananas in a row so that somewhere in the row each type of fruit can be found next to each other type of fruit. What is the smallest possible number of fruits in the row?
+
+### What's Due?
+
+* Blog Post 8: https://web.austincodingacademy.com/_book/04Week/02DayClass.html - **Due TODAY**
+
+* Checkpoint 1: Widget Dashboard using CSS Grid AND a Media Query with an `Images` folder containing two wireframes (moble and tablet) - **Due TODAY**
+
+* Blog Post 9: https://web.austincodingacademy.com/_book/05Week/01DayClass.html - **Due Tuesday 19th**
+
+* Blog Post 10: https://web.austincodingacademy.com/_book/05Week/02DayClass.html - **Due Thursday 21st**
+
+### Creating our `aboutMe.html` and `contactMe.html` pages!
+
+Check out video for directions! (Will link here soon)
+
+### Git Flow Reminder
+
+* `git checkout master` OR `gh-pages` (whichever is your origin)
+* then `git pull` changes,
+* create a new branch `git checkout -b new-branch`
+* make changes in VS code & save,
+* `git add .` then...
+* `git commit -m "add a detailed message"`
+* `git push -u origin new-branch` them up to the remote repo on GitHub
+* `git checkout master` OR `gh-pages` to switch back to origin branch
+and do it all over again...
+
+## TUESDAY - 19
+
+### PRESENTATION: Lorianne Hutauruk & Austin Whitlock
+
+#### THURSDAY PRESENTATION: Juho Lee & Donald Morris
+
+### Daily Logic
+
+A pattern that repeats every six symbols starts as shown below:
+
+♡ ♣ ♡ ♢ ♡ ♠ ♡ ♣ ♡ ♢ ♡ ♠ …
+
+What are the 100th and 101st symbols in the pattern?
+
+### What's Due?
+
+* Blog Post 9: https://web.austincodingacademy.com/_book/05Week/01DayClass.html - **Due TONIGHT**
+
+* Blog Post 10: https://web.austincodingacademy.com/_book/05Week/02DayClass.html - **Due Thursday 21st**
+
+* Blog Post 11: https://web.austincodingacademy.com/_book/06Week/01DayClass.html - **Due Thursday 21st**
+
+### CSS Animations
+
+* Instruction coming soon!
+
+### Git Flow Reminder
+
+* `git checkout master` OR `gh-pages` (whichever is your origin)
+* then `git pull` changes,
+* create a new branch `git checkout -b new-branch`
+* make changes in VS code & save,
+* `git add .` then...
+* `git commit -m "add a detailed message"`
+* `git push -u origin new-branch` them up to the remote repo on GitHub
+* `git checkout master` OR `gh-pages` to switch back to origin branch
+and do it all over again...
+
+## THURSDAY - 21
+
+### PRESENTATION: Juho Lee & Donald Morris
+
+#### THURSDAY PRESENTATION: Jessica Carvahal
+
+### Daily Logic
+
+Leonard writes down a sequence of numbers. After the first two numbers, each number is the sum of the previous two numbers in the sequence. The fourth number is 6 and the sixth number is 15. What is the seventh number in the sequence?
+
+### What's Due?
+
+* Blog Post 10: https://web.austincodingacademy.com/_book/05Week/02DayClass.html - **Due TONIGHT**
+
+* Blog Post 11: https://web.austincodingacademy.com/_book/06Week/01DayClass.html - **Due TONIGHT**
+
+* Blog Post 12: https://web.austincodingacademy.com/_book/06Week/02DayClass.html - **Due Tuesday 26th**
+
+### CSS Transitions and Transformations
+
+* Instruction coming soon!
+
+### Git Flow Reminder
+
+* `git checkout master` OR `gh-pages` (whichever is your origin)
+* then `git pull` changes,
+* create a new branch `git checkout -b new-branch`
+* make changes in VS code & save,
+* `git add .` then...
+* `git commit -m "add a detailed message"`
+* `git push -u origin new-branch` them up to the remote repo on GitHub
+* `git checkout master` OR `gh-pages` to switch back to origin branch
+and do it all over again...
