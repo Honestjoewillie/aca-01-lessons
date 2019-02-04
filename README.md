@@ -234,6 +234,8 @@ The pattern 123451234512345... is continued to form a 2000 digit number. What is
 
 ### If coding was easy, everybody would be doing it!
 
+* Using other software engineers' open-source code is great...if you already understand what it does.
+
 ### What's Due?
 
 * Medium Blog Post 5: https://web.austincodingacademy.com/_book/03Week/01DayClass.html - **Due TONIGHT**
