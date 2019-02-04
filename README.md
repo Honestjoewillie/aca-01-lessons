@@ -232,6 +232,8 @@ Flexbox is great when you want to line up a whole bunch of things in one directi
 
 The pattern 123451234512345... is continued to form a 2000 digit number. What is the sum of all 2000 digits?
 
+### If coding was easy, everybody would be doing it!
+
 ### What's Due?
 
 * Medium Blog Post 5: https://web.austincodingacademy.com/_book/03Week/01DayClass.html - **Due TONIGHT**
@@ -248,6 +250,36 @@ The pattern 123451234512345... is continued to form a 2000 digit number. What is
 
 ### Box Model
 
+* Width & Height
+
+* Padding
+
+* Border
+
+* Margin
+
+Box model CodePen example: https://codepen.io/bigknell/pen/aqgzYp
+
+  * Show how to Fork a CodePen so you can "mess with it"
+
+#### Free Website Templates
+
+* https://freewebsitetemplates.com/preview/hairstylesalon/index.html
+
+* https://freewebsitetemplates.com/preview/mustacheenthusiast/index.html
+
+#### Getting started
+
+* `git checkout master` OR `gh-pages`
+* then `git pull` changes,
+* create a new branch `git checkout -b boxModel`
+* make changes in VS code & save,
+* `git add .` then...
+* `git commit -m "add a detailed message"`
+* `git push -u origin boxModel` them up to the remote repo on GitHub
+* `git checkout master` OR `gh-pages` to switch back to origin branch
+and do it all over again...
+
 ## THURSDAY - 7
 
 ### PRESENTATION: Devin Gibbons
@@ -256,7 +288,7 @@ The pattern 123451234512345... is continued to form a 2000 digit number. What is
 
 ### Daily Logic
 
-
+![Daily logic[(https://github.com/eamoses/aca-01-lessons/blob/master/logicfeb7.png?raw=true)
 
 ### What's Due?
 
