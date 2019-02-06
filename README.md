@@ -306,6 +306,14 @@ and do it all over again...
 
 * Checkpoint 1: Widget Dashboard using CSS Grid AND a Media Query with an `Images` folder containing two wireframes (moble and tablet) - **Due Thursday 14th**
 
+### SVG vs. PNG vs. JPG
+
+* `.svg` and `.png` images can grow and shrink while keeping their dimensions and without getting pixelatd **lossless*
+
+* `.jpg` will become more pixelated the larger it gets
+
+* Convert `.jpg` to `.png` to use on your websites.
+
 ### Work on Checkpoint 1, Chrome Dev Tools, Merge Conflicts
 
 #### Chrome Dev tools follow along
