@@ -224,9 +224,9 @@ Flexbox is great when you want to line up a whole bunch of things in one directi
 
 ## TUESDAY - 5
 
-### PRESENTATION: Dan Brockman & Andy Fogarasi
+### PRESENTATION: Andy Fogarasi
 
-#### TUESDAY PRESENTATION: Devin Gibbons
+#### THURSDAY PRESENTATION: Devin Gibbons
 
 ### Daily Logic
 
