@@ -308,7 +308,7 @@ and do it all over again...
 
 ### SVG vs. PNG vs. JPG
 
-* `.svg` and `.png` images can grow and shrink while keeping their dimensions and without getting pixelatd **lossless*
+* `.svg` and `.png` images can grow and shrink while keeping their dimensions and without getting pixelatd **lossless**
 
 * `png`: Rastor preserves transparencies - used mainly for icons and smaller images that don't need as many colors
 
