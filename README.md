@@ -310,19 +310,33 @@ and do it all over again...
 
 * `.svg` and `.png` images can grow and shrink while keeping their dimensions and without getting pixelatd **lossless*
 
-* `.jpg` will become more pixelated the larger it gets
+* `png`: Rastor preserves transparencies - used mainly for icons and smaller images that don't need as many colors
 
-* Convert `.jpg` to `.png` to use on your websites.
+* `svg`: Vector preserves transparencies - for high quality images that need to be scaled to any size
+
+* `jpg`: Rastor that will become more pixelated the more you zoom in, it does not preserve transparency but will use full color availability
+
+* Convert `.jpg` to `.png` or `.svg` to use on your websites.
+
+* Blog post for more info: https://www.pagecloud.com/blog/web-images-png-vs-jpg-vs-gif-vs-svg
 
 ### Work on Checkpoint 1, Chrome Dev Tools, Merge Conflicts
 
 #### Chrome Dev tools follow along
 
+* https://developers.google.com/web/tools/chrome-devtools/beginners/html
+
+* https://developers.google.com/web/tools/chrome-devtools/beginners/css
+
+* https://developers.google.com/web/tools/chrome-devtools/css/
+
 #### Merge Conflicts
+
+* How to check for your computers git configurations?
 
 All students should configure their git: `git config --global core.editor "code --wait"`
 
-This will open VS Code every time you have a merge conflict. A merge conflict is when git is confused as to which code you want to be the "source of truth" and you have to manually go through the file and delete the code you don't want, and save the code you do want. After editing your files, do `git add .`, `git commit -m "resolving merge conflict"`, `git push` to update git and GitHub with the most recent code that you want to keep as your source of truth.
+This will open VS Code every time you have a merge conflict. A merge conflict is when git needs more information as to which code you want to be the "source of truth" and you have to manually go through the file and delete the code you don't want, and save the code you do want. After editing your files, do `git add .`, `git commit -m "resolving merge conflict"`, `git push` to update git and GitHub with the most recent code that you want to keep as your source of truth.
 
 #### Work on Checkpoint 1
 
