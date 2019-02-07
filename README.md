@@ -338,6 +338,8 @@ All students should configure their git: `git config --global core.editor "code 
 
 This will open VS Code every time you have a merge conflict. A merge conflict is when git needs more information as to which code you want to be the "source of truth" and you have to manually go through the file and delete the code you don't want, and save the code you do want. After editing your files, do `git add .`, `git commit -m "resolving merge conflict"`, `git push` to update git and GitHub with the most recent code that you want to keep as your source of truth.
 
+* https://github.com/eamoses/merge-conflict/tree/master/merge-conflicts-exercise
+
 #### Work on Checkpoint 1
 
 ## TUESDAY - 12
