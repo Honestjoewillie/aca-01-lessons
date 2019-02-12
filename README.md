@@ -396,7 +396,7 @@ and do it all over again...
 
 ### PRESENTATION: Lorianne Hutauruk
 
-#### TUESDAY PRESENTATION: Lorianne Hutauruk & Austin Whitlock
+#### TUESDAY PRESENTATION: Austin Whitlock
 
 ### Daily Logic
 
