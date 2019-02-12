@@ -346,7 +346,7 @@ This will open VS Code every time you have a merge conflict. A merge conflict is
 
 ### PRESENTATION: Selina Solis & Rekha Umashankar
 
-#### THURSDAY: ?
+#### THURSDAY: Lorianne Hutauruk
 
 ### Daily Logic
 
@@ -394,7 +394,7 @@ and do it all over again...
 
 ## THURSDAY - 14
 
-### PRESENTATION: ?
+### PRESENTATION: Lorianne Hutauruk
 
 #### TUESDAY PRESENTATION: Lorianne Hutauruk & Austin Whitlock
 
@@ -430,7 +430,7 @@ and do it all over again...
 
 ## TUESDAY - 19
 
-### PRESENTATION: Lorianne Hutauruk & Austin Whitlock
+### PRESENTATION: Austin Whitlock
 
 #### THURSDAY PRESENTATION: Juho Lee & Donald Morris
 
