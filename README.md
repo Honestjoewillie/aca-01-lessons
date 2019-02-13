@@ -414,7 +414,7 @@ A grocer places some oranges, peaches, apples and bananas in a row so that somew
 
 ### Creating our `aboutMe.html` and `contactMe.html` pages!
 
-(Follow this link for instructions on creating your `About Me` and `Contact Me` html pages)[https://web.austincodingacademy.com/_book/05Week/02DayClass.html]
+[Follow this link for instructions on creating your `About Me` and `Contact Me` html page](https://web.austincodingacademy.com/_book/05Week/02DayClass.html)
 
 ### Git Flow Reminder
 
