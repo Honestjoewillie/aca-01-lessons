@@ -412,6 +412,10 @@ A grocer places some oranges, peaches, apples and bananas in a row so that somew
 
 * Blog Post 10: https://web.austincodingacademy.com/_book/05Week/02DayClass.html - **Due Thursday 21st**
 
+### Directories
+
+* I'll show my example code of getting files linked and images to show up regardless of where they exist in your file structure
+
 ### Creating our `aboutMe.html` and `contactMe.html` pages!
 
 [Follow this link for instructions on creating your `About Me` and `Contact Me` html page](https://web.austincodingacademy.com/_book/05Week/02DayClass.html)
@@ -452,7 +456,7 @@ What are the 100th and 101st symbols in the pattern?
 
 ### CSS Animations
 
-* Instruction coming soon!
+* (Animations Lesson)[https://web.austincodingacademy.com/_book/06Week/01DayClass.html]
 
 ### Git Flow Reminder
 
