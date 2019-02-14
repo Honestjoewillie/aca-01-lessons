@@ -412,9 +412,13 @@ A grocer places some oranges, peaches, apples and bananas in a row so that somew
 
 * Blog Post 10: https://web.austincodingacademy.com/_book/05Week/02DayClass.html - **Due Thursday 21st**
 
-### Directories
+* Checkpoint 2: https://web.austincodingacademy.com/_book/checkPoints/02checkPoint.html - **Due Tuesday March 5th**
+
+### Other Stuff
 
 * I'll show my example code of getting files linked and images to show up regardless of where they exist in your file structure
+
+* Checkpoint 2: https://web.austincodingacademy.com/_book/checkPoints/02checkPoint.html
 
 ### Creating our `aboutMe.html` and `contactMe.html` pages!
 
@@ -453,6 +457,8 @@ What are the 100th and 101st symbols in the pattern?
 * Blog Post 10: https://web.austincodingacademy.com/_book/05Week/02DayClass.html - **Due Thursday 21st**
 
 * Blog Post 11: https://web.austincodingacademy.com/_book/06Week/01DayClass.html - **Due Thursday 21st**
+
+* Checkpoint 2: https://web.austincodingacademy.com/_book/checkPoints/02checkPoint.html - **Due Tuesday March 5th**
 
 ### CSS Animations
 
