@@ -2,13 +2,13 @@
 
 1. Navigate to your GitHub page (Example: `www.github.com/yourUsername`)
 
-2.Click on the `Repositories` tab:
+2. Click on the `Repositories` tab:
 
 ![Repo tab image](repo-tab.png)
 
 3. Click on the green `New` button at the top:
 
-![Repo tab image](repo-tab.png)
+![New](new-repo.png)
 
 4. In the `Repository name` field put `checkpoint-2` **make sure there are NO spaces in this name**
 
