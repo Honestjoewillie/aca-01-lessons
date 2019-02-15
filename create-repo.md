@@ -8,7 +8,7 @@
 
 3. Click on the green `New` button at the top:
 
-![New](new-repo.png)
+![New](new-repo-button.png)
 
 4. In the `Repository name` field put `checkpoint-2` **make sure there are NO spaces in this name**
 
