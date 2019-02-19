@@ -462,7 +462,9 @@ What are the 100th and 101st symbols in the pattern?
 
 ### CSS Animations
 
-* (Animations Lesson)[https://web.austincodingacademy.com/_book/06Week/01DayClass.html]
+* (CodePen Animations Example)[https://codepen.io/emilyannemoses/pen/rPReOB]
+
+* Keyframes hold what styles the element will have at certain times.
 
 ### Git Flow Reminder
 
@@ -494,9 +496,10 @@ Leonard writes down a sequence of numbers. After the first two numbers, each num
 
 * Blog Post 12: https://web.austincodingacademy.com/_book/06Week/02DayClass.html - **Due Tuesday 26th**
 
+* Checkpoint 2: https://web.austincodingacademy.com/_book/checkPoints/02checkPoint.html - **Due Tuesday March 5th**
+
 ### CSS Transitions and Transformations
 
-* Instruction coming soon!
 
 ### Git Flow Reminder
 
