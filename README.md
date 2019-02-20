@@ -498,6 +498,10 @@ Leonard writes down a sequence of numbers. After the first two numbers, each num
 
 * Checkpoint 2: https://web.austincodingacademy.com/_book/checkPoints/02checkPoint.html - **Due Tuesday March 5th**
 
+### Everyone makes a Gravatar
+
+* Video: https://www.youtube.com/watch?v=HxTBCTObRAA&feature=youtu.be&t=21
+
 ### CSS Transitions and Transformations
 
 * Follow the curriculum instructions: https://web.austincodingacademy.com/_book/06Week/02DayClass.html
