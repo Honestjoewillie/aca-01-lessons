@@ -482,7 +482,7 @@ and do it all over again...
 
 ### PRESENTATION: Juho Lee & Donald Morris
 
-#### THURSDAY PRESENTATION: Jessica Carvahal
+#### TUESDAY PRESENTATION: Jessica Carvahal
 
 ### Daily Logic
 
@@ -500,6 +500,228 @@ Leonard writes down a sequence of numbers. After the first two numbers, each num
 
 ### CSS Transitions and Transformations
 
+
+### Git Flow Reminder
+
+* `git checkout master` OR `gh-pages` (whichever is your origin)
+* then `git pull` changes,
+* create a new branch `git checkout -b new-branch`
+* make changes in VS code & save,
+* `git add .` then...
+* `git commit -m "add a detailed message"`
+* `git push -u origin new-branch` them up to the remote repo on GitHub
+* `git checkout master` OR `gh-pages` to switch back to origin branch
+and do it all over again...
+
+## TUESDAY - 26
+
+### PRESENTATION: Jessica Carvahal
+
+#### THURSDAY PRESENTATION: Nurzat Nijat
+
+### Daily Logic
+
+In a sequence of positive integers, every term after the first two terms is the sum of the two previous terms in the sequence.
+
+If the fifth term is 2004, what is the maximum possible value of the first term?
+
+### What's Due?
+
+* Blog Post 12: https://web.austincodingacademy.com/_book/06Week/02DayClass.html - **Due TONIGHT**
+
+* Blog Post 13: https://web.austincodingacademy.com/_book/07Week/01DayClass.html - **Due Thursday 28th**
+
+* Checkpoint 2: https://web.austincodingacademy.com/_book/checkPoints/02checkPoint.html - **Due Tuesday March 5th**
+
+### JavaScript and the DOM
+
+* `The Document`: In HTML, we type `doctype` to set the `document type declaration`. This is the `document` we're going to be manupulating with JAVASCRIPT!
+
+* `DOM`: Document Object Model. This terminology refers to the way JavaScript will manipulate our HTML document using `class` and `id` within the HTML document.
+
+* Yes, JavaScript *is* a programming language!
+
+* Modern day browsers are built to be able to *enable* use of JavaScript within the HTML `document`. **Yes, it is possible to disable JavaScript in your browser!**
+
+* Built-In JavaScript DOM methods: https://web.austincodingacademy.com/_book/07Week/01DayPrep.html
+
+```
+When constructing a website, consider the root functionality of HTML, CSS and JavaScript.
+
+HTML: The bones of the site - the foundation, the wood framing, the shingles on the roof
+
+CSS: The style of the site. What color are we painting the house? Will it be a round house or a square house? Will there be shutters and what color will they be? 
+
+JavaScript: The functionality of the website. Are we going to install an automatic garage door? Will Alexa be able to turn on all of the lights in the house with one command? Will we install a Ring Doorbell to video record whomever is at our front door?
+```
+
+* What can we do in the Chrome Developer Console with JavaScript?
+
+### Git Flow Reminder
+
+* `git checkout master` OR `gh-pages` (whichever is your origin)
+* then `git pull` changes,
+* create a new branch `git checkout -b new-branch`
+* make changes in VS code & save,
+* `git add .` then...
+* `git commit -m "add a detailed message"`
+* `git push -u origin new-branch` them up to the remote repo on GitHub
+* `git checkout master` OR `gh-pages` to switch back to origin branch
+and do it all over again...
+
+## THURSDAY - 28
+
+### PRESENTATION: Nurzat Nijat
+
+#### TUESDAY PRESENTATION: Kyle Curtis & Alysia Lopez 
+
+### Daily Logic
+
+Pegs numbered 1 to 50 are placed in order in a line, with number 1 on the left. They are then knocked over one at a time following these rules:
+
+Of the pegs which are still standing, alternate pegs are knocked down, starting with the one on the left.
+Each time the end of the row is reached, repeat the previous rule.
+What is the number of the last peg to be knocked down?
+
+### What's Due?
+
+* Blog Post 13: https://web.austincodingacademy.com/_book/07Week/01DayClass.html - **Due TONIGHT**
+
+* Blog Post 14: https://web.austincodingacademy.com/_book/07Week/02DayClass.html - **Due Tuesday March 5th**
+
+* Checkpoint 2: https://web.austincodingacademy.com/_book/checkPoints/02checkPoint.html - **Due Tuesday March 5th**
+
+### jQuery: A JavaScript Libaray
+
+* jQuery offers us "short cuts" to writing JavaScript for the DOM.
+
+* You must include the jQuery CDN in your HTML file of your project in order for the DOM to recognize jQuery syntax (just like we did for Animate CSS and Font Awesome)
+
+### Git Flow Reminder
+
+* `git checkout master` OR `gh-pages` (whichever is your origin)
+* then `git pull` changes,
+* create a new branch `git checkout -b new-branch`
+* make changes in VS code & save,
+* `git add .` then...
+* `git commit -m "add a detailed message"`
+* `git push -u origin new-branch` them up to the remote repo on GitHub
+* `git checkout master` OR `gh-pages` to switch back to origin branch
+and do it all over again...
+
+## TUESDAY - 5
+
+### PRESENTATION: Kyle Curtis & Alysia Lopez
+
+#### THURSDAY PRESENTATION: Ju Hun Lee & Dan Brockman
+
+### Daily Logic
+
+Granny's watch gains 30 minutes every hour, whilst Grandpa's watch loses 30 minutes every hour. At midnight, they both set their watches to the correct time of 12 o'clock. What is the correct time when their two watches next agree?
+
+### What's Due?
+
+* Blog Post 14: https://web.austincodingacademy.com/_book/07Week/02DayClass.html - **Due TONIGHT**
+
+* Checkpoint 2: https://web.austincodingacademy.com/_book/checkPoints/02checkPoint.html - **Due TONIGHT**
+
+* Blog Post 15: https://web.austincodingacademy.com/_book/08Week/01DayClass.html - **Due Thursday March 7th**
+
+### APIs: Geolocation
+
+### Using Forms
+
+### Git Flow Reminder
+
+* `git checkout master` OR `gh-pages` (whichever is your origin)
+* then `git pull` changes,
+* create a new branch `git checkout -b new-branch`
+* make changes in VS code & save,
+* `git add .` then...
+* `git commit -m "add a detailed message"`
+* `git push -u origin new-branch` them up to the remote repo on GitHub
+* `git checkout master` OR `gh-pages` to switch back to origin branch
+and do it all over again...
+
+## THURSDAY - 7
+
+### PRESENTATION: Ju Hun Lee & Dan Brockman
+
+#### TUESDAY PRESENTATION: Did I miss anybody?
+
+### Daily Logic
+
+Luis writes down seven consecutive positive integers. The sum of the three smallest numbers is 33. What is the sum of the three largest numbers?
+
+### What's Due?
+
+* Blog Post 15: https://web.austincodingacademy.com/_book/08Week/01DayClass.html - **Due TONIGHT**
+
+* Blog Post 16: https://web.austincodingacademy.com/_book/08Week/02DayClass.html - **Due Tuesday March 12th**
+
+### Introduce Checkpoint3
+
+### Git Flow Reminder
+
+* `git checkout master` OR `gh-pages` (whichever is your origin)
+* then `git pull` changes,
+* create a new branch `git checkout -b new-branch`
+* make changes in VS code & save,
+* `git add .` then...
+* `git commit -m "add a detailed message"`
+* `git push -u origin new-branch` them up to the remote repo on GitHub
+* `git checkout master` OR `gh-pages` to switch back to origin branch
+and do it all over again...
+
+## TUESDAY - 12
+
+### PRESENTATION:
+
+### Daily Logic
+
+Build a function that when given two numbers will return the sum and which of the two inputs is greater.
+
+### What's Due?
+
+* Blog Post 16: https://web.austincodingacademy.com/_book/08Week/02DayClass.html - **Due TONIGHT**
+
+* Blog Post 17: https://web.austincodingacademy.com/_book/09Week/01DayClass.html - **Due Thursday March 14th**
+
+### JavaScript Data Types
+
+### Git Flow Reminder
+
+* `git checkout master` OR `gh-pages` (whichever is your origin)
+* then `git pull` changes,
+* create a new branch `git checkout -b new-branch`
+* make changes in VS code & save,
+* `git add .` then...
+* `git commit -m "add a detailed message"`
+* `git push -u origin new-branch` them up to the remote repo on GitHub
+* `git checkout master` OR `gh-pages` to switch back to origin branch
+and do it all over again...
+
+## THURSDAY - 14
+
+### PRESENTATION:
+
+### Daily Logic
+
+Given an array of numbers, return the array in reverse order
+
+```javascript
+const myArr = [6, 5, 2, 1]
+
+reverseOrder(myArr) => 1, 2, 5, 6
+```
+
+### What's Due?
+
+* Blog Post 17: https://web.austincodingacademy.com/_book/09Week/01DayClass.html - **Due TONIGHT**
+
+* Blog Post 18: https://web.austincodingacademy.com/_book/09Week/02DayClass.html - **Due Tuesday March 19th**
+
+### JavaScript Conditional Statements and Loops
 
 ### Git Flow Reminder
 
