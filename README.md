@@ -536,6 +536,8 @@ If the fifth term is 2004, what is the maximum possible value of the first term?
 
 ### JavaScript and the DOM
 
+![Mosher's Law](mosherslaw.png)
+
 * `The Document`: In HTML, we type `doctype` to set the `document type declaration`. This is the `document` we're going to be manupulating with JAVASCRIPT!
 
 * `DOM`: Document Object Model. This terminology refers to the way JavaScript will manipulate our HTML document using `class` and `id` within the HTML document.
