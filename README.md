@@ -500,6 +500,7 @@ Leonard writes down a sequence of numbers. After the first two numbers, each num
 
 ### CSS Transitions and Transformations
 
+* Follow the curriculum instructions: https://web.austincodingacademy.com/_book/06Week/02DayClass.html
 
 ### Git Flow Reminder
 
