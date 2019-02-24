@@ -16,11 +16,11 @@
 
 ![Create](create-repo.png)
 
-6. Open `Terminal` (on Mac) or `Git Bash` (on Windows) and create a new directory anywhere on your computer that you'd like your code to live.
+6. Open `Terminal` (on Mac) or `Git Bash` (on Windows) and `cd` into the directory on your computer you'd like to hold this new repository.
 
-* To do this with a command, use `mkdir checkpoint2` to create a new `checkpoint2` folder. **This is important, we do not want to create a directory inside our old git repository locally. We want this to be a completely separate folder**
+**This is important, we do not want to create a repository inside our old git repository locally. We want this to be a completely separate folder**
 
-7. `cd` into that folder, and then type `git clone https://github.com/yourUsername/checkpoint-2.git`
+7. `cd` into that folder (whether it's Desktop or Documents etc), and then type `git clone https://github.com/yourUsername/checkpoint-2.git`
 
 **The URL above will be copy and pasted from the creation of your GitHub repository.**
 
