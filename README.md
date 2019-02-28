@@ -598,6 +598,8 @@ What is the number of the last peg to be knocked down?
 
 * Checkpoint 2: https://web.austincodingacademy.com/_book/checkPoints/02checkPoint.html - **Due Tuesday March 5th**
 
+### Checkpoint 2 Questions
+
 ### jQuery: A JavaScript Libaray
 
 * jQuery offers us "short cuts" to writing JavaScript for the DOM.
@@ -608,6 +610,8 @@ What is the number of the last peg to be knocked down?
   
 * Using `()`: Both empty and with parameters!
 
+  * named and anonymous functions: why we have both
+  
 ### Git Flow Reminder
 
 * `git checkout master` OR `gh-pages` (whichever is your origin)
