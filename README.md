@@ -578,7 +578,7 @@ and do it all over again...
 
 ## THURSDAY - 28
 
-### PRESENTATION: Nurzat Nijat
+### PRESENTATION: Jessica Carvajal & Nurzat Nijat
 
 #### TUESDAY PRESENTATION: Kyle Curtis & Alysia Lopez 
 
