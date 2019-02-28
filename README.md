@@ -604,6 +604,10 @@ What is the number of the last peg to be knocked down?
 
 * You must include the jQuery CDN in your HTML file of your project in order for the DOM to recognize jQuery syntax (just like we did for Animate CSS and Font Awesome)
 
+  * jQuery download (compressed vs. uncompressed) / NPM: `npm install jquery`
+  
+* Using `()`: Both empty and with parameters!
+
 ### Git Flow Reminder
 
 * `git checkout master` OR `gh-pages` (whichever is your origin)
