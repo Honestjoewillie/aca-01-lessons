@@ -634,6 +634,10 @@ Granny's watch gains 30 minutes every hour, whilst Grandpa's watch loses 30 minu
 
 * Blog Post 15: https://web.austincodingacademy.com/_book/08Week/01DayClass.html - **Due Thursday March 7th**
 
+### Checkpoint 3
+
+* https://web.austincodingacademy.com/_book/checkPoints/03checkPoint.html
+
 ### APIs: Geolocation
 
 ### Using Forms
