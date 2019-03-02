@@ -642,13 +642,23 @@ Granny's watch gains 30 minutes every hour, whilst Grandpa's watch loses 30 minu
 
 * Blog Post 15: https://web.austincodingacademy.com/_book/08Week/01DayClass.html - **Due Thursday March 7th**
 
+* JavaScript APP **DUE Tuesday March 12th**
+
+### JavaScript APP
+
+**THIS IS NOT CHECKPOINT3**
+
+We've been working on several different small projects (Tic Tac Toe, To-Do List, Geolocation API, Towers of Hanoi) using JavaScript/jQuery. I need ONE of these projects linked in Campus Manager by 11:59pm Tuesday the 12th. I need the link to your GitHub, NOT the live site. (http://github.com/yourUserName) I will be reviewing your code for this.
+
 ### Checkpoint 3
 
 * https://web.austincodingacademy.com/_book/checkPoints/03checkPoint.html
 
 ### APIs: Geolocation
 
-### Using Forms
+* CodePen Example: https://codepen.io/emilyannemoses/pen/moPVoV
+
+* Documentation: https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API
 
 ### Git Flow Reminder
 
@@ -678,7 +688,9 @@ Luis writes down seven consecutive positive integers. The sum of the three small
 
 * Blog Post 16: https://web.austincodingacademy.com/_book/08Week/02DayClass.html - **Due Tuesday March 12th**
 
-### Introduce Checkpoint3
+* JavaScript APP **DUE Tuesday March 12th**
+
+### Work On Checkpoint3
 
 ### Git Flow Reminder
 
