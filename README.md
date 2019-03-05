@@ -644,13 +644,33 @@ Granny's watch gains 30 minutes every hour, whilst Grandpa's watch loses 30 minu
 
 * JavaScript APP **DUE Tuesday March 12th**
 
+* Checkpoint3 **DUE March 21st**
+
 ### JavaScript APP
 
 **THIS IS NOT CHECKPOINT3**
 
 We've been working on several different small projects (Tic Tac Toe, To-Do List, Geolocation API, Towers of Hanoi) using JavaScript/jQuery. I need ONE of these projects linked in Campus Manager by 11:59pm Tuesday the 12th. I need the link to your GitHub, NOT the live site. (http://github.com/yourUserName) I will be reviewing your code for this.
 
-VAR vs. LET:
+**Programming Language Basics**
+
+```
+DATA TYPES - strings, numbers, boolean, arrays / objects(this)
+
+VARIABLES - const, let, var
+
+LOGICAL OPERATORS - &&, ||, !
+
+COMPARISON OPERATORS -  ==, ===, <, >, !=, !==, <=, >=
+
+CONDITIONAL STATEMENT / SWITCH STATEMENT - if(){}else{} / switch(){ case: break; default: }
+
+LOOPS - for, while
+
+FUNCTIONS - parameters, arguments, return
+```
+
+**VAR vs. LET:**
 
 ```
 function checkScope() {
@@ -707,6 +727,8 @@ Luis writes down seven consecutive positive integers. The sum of the three small
 
 * JavaScript APP **DUE Tuesday March 12th**
 
+* Checkpoint3 **DUE March 21st**
+
 ### Work On Checkpoint3
 
 ### Git Flow Reminder
@@ -731,9 +753,13 @@ Build a function that when given two numbers will return the sum and which of th
 
 ### What's Due?
 
+* JavaScript APP **DUE TONIGHT**
+
 * Blog Post 16: https://web.austincodingacademy.com/_book/08Week/02DayClass.html - **Due TONIGHT**
 
 * Blog Post 17: https://web.austincodingacademy.com/_book/09Week/01DayClass.html - **Due Thursday March 14th**
+
+* Checkpoint3 **DUE March 21st**
 
 ### JavaScript Data Types
 
@@ -768,6 +794,8 @@ reverseOrder(myArr) => 1, 2, 5, 6
 * Blog Post 17: https://web.austincodingacademy.com/_book/09Week/01DayClass.html - **Due TONIGHT**
 
 * Blog Post 18: https://web.austincodingacademy.com/_book/09Week/02DayClass.html - **Due Tuesday March 19th**
+
+* Checkpoint3 **DUE March 21st**
 
 ### JavaScript Conditional Statements and Loops
 
