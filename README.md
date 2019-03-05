@@ -674,7 +674,7 @@ FUNCTIONS - parameters, arguments, return
 
 ```
 function checkScope() {
-"use strict";
+"use strict";        // This line prevents me from using undeclared variables.
   var i = "function scope";
   if (true) {
     i = "block scope";
