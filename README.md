@@ -650,6 +650,23 @@ Granny's watch gains 30 minutes every hour, whilst Grandpa's watch loses 30 minu
 
 We've been working on several different small projects (Tic Tac Toe, To-Do List, Geolocation API, Towers of Hanoi) using JavaScript/jQuery. I need ONE of these projects linked in Campus Manager by 11:59pm Tuesday the 12th. I need the link to your GitHub, NOT the live site. (http://github.com/yourUserName) I will be reviewing your code for this.
 
+VAR vs. LET:
+
+```
+function checkScope() {
+"use strict";
+  var i = "function scope";
+  if (true) {
+    i = "block scope";
+    console.log("Block scope i is: ", i);
+  }
+  console.log("Function scope i is: ", i);
+  return i;
+}
+
+checkScope();
+```
+
 ### Checkpoint 3
 
 * https://web.austincodingacademy.com/_book/checkPoints/03checkPoint.html
