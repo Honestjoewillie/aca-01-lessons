@@ -729,7 +729,27 @@ COMPARISON OPERATORS -  ==, ===, <, >, !=, !==, <=, >=
 CONDITIONAL STATEMENT / SWITCH STATEMENT - if(){}else{} / switch(){ case: break; default: }
 ```
 
-### Work On Checkpoint3
+### JavaScript / jQuery APP
+
+* Every line needs to have a comment explaining what its doing.
+
+* Link the javascript file in Campus Manager - that's all I will grade.
+
+### Work on Checkpoint 3
+
+**Make `checkpoint3` an individual folder in your ACA_Web_101 repository and link it to your Portfolio page**
+
+1. WIREFRAME! -What will your game look like?
+
+2. Create a `checkpoint3` folder in your **ACA_Web_101** repository and create `.html` and `.css` files inside of that folder.
+
+3. Make it *responsive* with a **media query**
+
+4. Create a `.js` file containing **ONLY** comments explaining how the game will work and its basic functionality/purpose from start to finish.
+
+5. Begin writing javascript based on the functionality written in the comments.
+
+The final product should have all of the comments in the `.js` file explaining what your code does for me to read!
 
 ### Git Flow Reminder
 
