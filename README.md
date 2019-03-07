@@ -812,7 +812,11 @@ Given an array of numbers, return the array in reverse order
 ```javascript
 const myArr = [6, 5, 2, 1]
 
-reverseOrder(myArr) => 1, 2, 5, 6
+// Create a function that takes the variable myArr
+reverseOrder(myArr)
+
+// Output
+>> [1, 2, 5, 6]
 ```
 
 ### What's Due?
