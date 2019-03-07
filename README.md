@@ -812,8 +812,8 @@ Given an array of numbers, return the array in reverse order
 ```javascript
 const myArr = [6, 5, 2, 1]
 
-// Create a function that takes the variable myArr
-reverseOrder(myArr)
+// Create a function that reverses the myArr order and returns an array
+reverseOrder()
 
 // Output
 >> [1, 2, 5, 6]
