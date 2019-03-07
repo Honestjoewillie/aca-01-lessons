@@ -658,16 +658,6 @@ We've been working on several different small projects (Tic Tac Toe, To-Do List,
 DATA TYPES - strings, numbers, boolean, arrays / objects(this)
 
 VARIABLES - const, let, var
-
-LOGICAL OPERATORS - &&, ||, !
-
-COMPARISON OPERATORS -  ==, ===, <, >, !=, !==, <=, >=
-
-CONDITIONAL STATEMENT / SWITCH STATEMENT - if(){}else{} / switch(){ case: break; default: }
-
-LOOPS - for, while
-
-FUNCTIONS - parameters, arguments, return
 ```
 
 **VAR vs. LET:**
@@ -729,6 +719,16 @@ Luis writes down seven consecutive positive integers. The sum of the three small
 
 * Checkpoint3 **DUE March 21st**
 
+**Programming Language Basics**
+
+```
+LOGICAL OPERATORS - &&, ||, !
+
+COMPARISON OPERATORS -  ==, ===, <, >, !=, !==, <=, >=
+
+CONDITIONAL STATEMENT / SWITCH STATEMENT - if(){}else{} / switch(){ case: break; default: }
+```
+
 ### Work On Checkpoint3
 
 ### Git Flow Reminder
@@ -761,7 +761,13 @@ Build a function that when given two numbers will return the sum and which of th
 
 * Checkpoint3 **DUE March 21st**
 
-### JavaScript Data Types
+**Programming Language Basics**
+
+```
+LOOPS - for, while
+
+FUNCTIONS - parameters, arguments, return
+```
 
 ### Git Flow Reminder
 
