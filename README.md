@@ -765,8 +765,6 @@ and do it all over again...
 
 ## TUESDAY - 12
 
-### PRESENTATION:
-
 ### Daily Logic
 
 Build a function that when given two numbers will return the sum and which of the two inputs is greater.
@@ -803,8 +801,6 @@ and do it all over again...
 
 ## THURSDAY - 14
 
-### PRESENTATION:
-
 ### Daily Logic
 
 Given an array of numbers, return the array in reverse order
@@ -828,6 +824,48 @@ reverseOrder()
 * Checkpoint3 **DUE March 21st**
 
 ### JavaScript Conditional Statements and Loops
+
+### Git Flow Reminder
+
+* `git checkout master` OR `gh-pages` (whichever is your origin)
+* then `git pull` changes,
+* create a new branch `git checkout -b new-branch`
+* make changes in VS code & save,
+* `git add .` then...
+* `git commit -m "add a detailed message"`
+* `git push -u origin new-branch` them up to the remote repo on GitHub
+* `git checkout master` OR `gh-pages` to switch back to origin branch
+and do it all over again...
+
+## THURSDAY - 19
+
+### PRESENTATION: Rick Ricketts
+
+### Daily Logic
+
+### What's Due?
+
+* Checkpoint3 **DUE March 21st**
+
+### Git Flow Reminder
+
+* `git checkout master` OR `gh-pages` (whichever is your origin)
+* then `git pull` changes,
+* create a new branch `git checkout -b new-branch`
+* make changes in VS code & save,
+* `git add .` then...
+* `git commit -m "add a detailed message"`
+* `git push -u origin new-branch` them up to the remote repo on GitHub
+* `git checkout master` OR `gh-pages` to switch back to origin branch
+and do it all over again...
+
+## THURSDAY - 21
+
+### Daily Logic
+
+### What's Due?
+
+* Checkpoint3 **DUE TONIGHT**
 
 ### Git Flow Reminder
 
