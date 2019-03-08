@@ -779,6 +779,12 @@ Build a function that when given two numbers will return the sum and which of th
 
 * Checkpoint3 **DUE March 21st**
 
+### Talk about forking
+
+* Forking in CodePen
+
+* Forking in GitHub
+
 **Programming Language Basics**
 
 ```
