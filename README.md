@@ -779,12 +779,6 @@ Build a function that when given two numbers will return the sum and which of th
 
 * Checkpoint3 **DUE March 21st**
 
-### Talk about forking
-
-* Forking in CodePen
-
-* Forking in GitHub
-
 **Programming Language Basics**
 
 ```
@@ -825,11 +819,21 @@ reverseOrder()
 
 * Blog Post 17: https://web.austincodingacademy.com/_book/09Week/01DayClass.html - **Due TONIGHT**
 
+* JavaScript Exercises: https://web.austincodingacademy.com/_book/09Week/02DayClass.html - **Due TONIGHT**
+
 * Blog Post 18: https://web.austincodingacademy.com/_book/09Week/02DayClass.html - **Due Tuesday March 19th**
 
 * Checkpoint3 **DUE March 21st**
 
-### JavaScript Conditional Statements and Loops
+### Talk about forking
+
+* Forking in CodePen
+
+* Forking in GitHub
+
+### JavaScript Exercises
+
+* https://web.austincodingacademy.com/_book/09Week/02DayClass.html
 
 ### Git Flow Reminder
 
