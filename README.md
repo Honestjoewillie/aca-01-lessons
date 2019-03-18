@@ -853,9 +853,32 @@ and do it all over again...
 
 ### Daily Logic
 
+Return the sum of all of the numbers in `myArr`
+
+```
+const myArr = [9, 10, 8, 5, 6, 7, 3];
+
+var sumOfArray = function(){
+  // Your code goes here
+}
+
+sumOfArray(myArr);
+// >> 48
+```
+
 ### What's Due?
 
-* Checkpoint3 **DUE March 21st**
+* Blog Post 18 - **Due TONIGHT**
+
+* Blog Post 19 - **DUE March 21st**
+
+* Blog Post 20 - **DUE March 21st**
+
+* Checkpoint3 - **DUE March 21st**
+
+### Building a JS Calculator
+
+* https://web.austincodingacademy.com/_book/10Week/01DayClass.html
 
 ### Git Flow Reminder
 
