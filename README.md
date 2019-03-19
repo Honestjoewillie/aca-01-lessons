@@ -858,12 +858,7 @@ Return the sum of all of the numbers in `myArr`
 ```
 const myArr = [9, 10, 8, 5, 6, 7, 3];
 
-var sumOfArray = function(){
-  // Your code goes here
-}
-
-sumOfArray(myArr);
-// >> 48
+// Output: 48
 ```
 
 ### What's Due?
@@ -896,9 +891,19 @@ and do it all over again...
 
 ### Daily Logic
 
+```
+const myArr = [9, 10, 8, 5, 6, 7, 3]
+
+// Output: [9, 5, 7, 3]
+```
+
 ### What's Due?
 
 * Checkpoint3 **DUE TONIGHT**
+
+* Blog Post 19 **DUE TONIGHT**
+
+* Blog Post 20 **DUE TONIGHT**
 
 ### Git Flow Reminder
 
