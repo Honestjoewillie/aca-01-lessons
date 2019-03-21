@@ -891,6 +891,9 @@ and do it all over again...
 
 ### Daily Logic
 
+Given an array of numbers, remove all instances of even numbers and return only the odds.
+
+
 ```
 const myArr = [9, 10, 8, 5, 6, 7, 3]
 
